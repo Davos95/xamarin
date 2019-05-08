@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinRealm.Views.MasterPageView"
+             xmlns:pages="clr-namespace:XamarinRealm.Views">
+  <MasterDetailPage.Master>
+        <ContentPage Title="hola">
+            <StackLayout BackgroundColor="LightGray">
+                <Label Text="Titulo del menu" FontSize="25"/>
+                <StackLayout>
+                    
+                
+                <ListView x:Name="lsvmenu">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Label Text="{Binding Titulo}" FontSize="20" TextColor="White" />
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                </StackLayout>
+            </StackLayout>
+        </ContentPage>
+  </MasterDetailPage.Master>
+  <MasterDetailPage.Detail>
+    <NavigationPage>
+      <x:Arguments>
+
+      </x:Arguments>
+    </NavigationPage>
+  </MasterDetailPage.Detail>
+</MasterDetailPage>

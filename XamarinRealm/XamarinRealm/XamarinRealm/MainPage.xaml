@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinRealm"
+             x:Class="XamarinRealm.MainPage">
+
+    <StackLayout Margin="0,30,0,0">
+        <!-- Place new controls here -->
+        <Label Text="Pagina principal" 
+           HorizontalOptions="Center" />
+        <Button Text="Mostrar Personajes" x:Name="botonMostrar"/>
+        <Button Text="Insertar Personaje" x:Name="botonInsertar"/>
+        
+        <Label Text="Id Personaje" />
+        <Entry x:Name="cajanumero" Keyboard="Numeric" HorizontalOptions="FillAndExpand"/>
+        <Button Text="Eliminar Personaje" x:Name="botonEliminar" />
+        <Button Text="Modificar Personaje" x:Name="botonModificar"/>
+        
+    </StackLayout>
+
+</ContentPage>

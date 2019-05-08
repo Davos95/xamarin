@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TiposLayout.XamlViews.ScrollViewPage">
+    <ContentPage.Content>
+        <StackLayout Margin="0,40,0,0">
+            <Label Text="ScrollView"
+                FontSize="40"
+                HorizontalOptions="CenterAndExpand" />
+            <ScrollView VerticalOptions="FillAndExpand" >
+                <Label FontSize="30" TextColor="red" Text="Lorem ipsum dolor sit amet consectetur adipiscing elit purus vitae, parturient torquent sapien arcu aliquet conubia nunc convallis habitasse sollicitudin, aliquam curae pretium mattis augue penatibus potenti cras. Nascetur curae nunc aptent vestibulum vulputate interdum euismod faucibus urna, ut facilisi senectus convallis et eu nulla enim, ad cursus pellentesque natoque curabitur torquent dictumst rutrum. Proin scelerisque pretium auctor gravida semper nam cum, dapibus ultrices tincidunt inceptos sem taciti justo, potenti massa quam placerat odio senectus."/>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

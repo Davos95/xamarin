@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TiposLayout.XamlViews.FlexLayoutPage">
+    <ContentPage.Content>
+        <StackLayout Margin="0,40,0,0">
+            <Label Text="Flex Layout"
+                FontSize="40" TextColor="Blue"
+                HorizontalOptions="CenterAndExpand" />
+            <FlexLayout AlignItems="Center" Direction="Column" JustifyContent="Start" >
+
+                <Label Text="control 1 en flex" />
+                <Button Text="boton nuevo" />
+                <Image Source="http://3.bp.blogspot.com/-6cp7sIgYkkw/VfOdE1EdyUI/AAAAAAAACH0/J2E7zxFYJZw/s1600/120439-durarara-durarara-poster.jpg" WidthRequest="100" HeightRequest="150"/>
+                <Entry Text="caja de texto" HorizontalOptions="FillAndExpand"/>
+            </FlexLayout>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

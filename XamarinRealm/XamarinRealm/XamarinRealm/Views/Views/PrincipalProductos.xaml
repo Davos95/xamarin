@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinRealm.Views.Views.PrincipalProductos">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button HorizontalOptions="FillAndExpand" Text="Productos 1" x:Name="botonproductos1" />
+            <Button HorizontalOptions="FillAndExpand" Text="Productos 2" x:Name="botonproductos2" />
+            <Button HorizontalOptions="FillAndExpand" Text="Numero productos" x:Name="botonnumeroproductos" />
+            <Label x:Name="lblproductos" FontSize="30" TextColor="Red" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

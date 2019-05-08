@@ -1,0 +1,13 @@
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\bin\Debug\netstandard2.0\TiposAlerta.deps.json
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\bin\Debug\netstandard2.0\TiposAlerta.dll
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\bin\Debug\netstandard2.0\TiposAlerta.pdb
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\TiposAlerta.csprojAssemblyReference.cache
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\PaginaModal.xaml.g.cs
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\TiposAlerta.csproj.CoreCompileInputs.cache
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\TiposAlerta.AssemblyInfoInputs.cache
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\TiposAlerta.AssemblyInfo.cs
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\TiposAlerta.dll
+C:\XAMARIN\TiposAlerta\TiposAlerta\TiposAlerta\obj\Debug\netstandard2.0\TiposAlerta.pdb

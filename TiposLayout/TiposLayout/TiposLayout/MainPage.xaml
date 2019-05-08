@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TiposLayout"
+             x:Class="TiposLayout.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout Margin="0,40,0,0">
+            <Label Text="Menú" HorizontalOptions="CenterAndExpand" TextColor="Red" />
+            <Button Text="StackLayout" x:Name="botonStack"/>
+            <Button Text="Frame" x:Name="botonFrame" />
+            <Button Text="FlexLayout" x:Name="botonFlex"/>
+            <Button Text="AbsoluteLayout" x:Name="botonAbsolute"/>
+            <Button Text="ScrollView" x:Name="botonScroll"/>
+            <Button Text="Practica1Collatz" x:Name="botonPrac1"/>
+            <Button Text="Practica2CollatzCombinado" x:Name="botonPrac2"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

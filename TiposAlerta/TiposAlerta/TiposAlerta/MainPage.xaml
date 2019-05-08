@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TiposAlerta"
+             x:Class="TiposAlerta.MainPage">
+
+    <StackLayout Margin="0,40,0,0">
+        <!-- Place new controls here -->
+        <Label Text="Tipos de alerta" HorizontalOptions="Center" />
+        <Button x:Name="botonSimple" Text="Mensaje Simple" HorizontalOptions="CenterAndExpand"/>
+        <Button x:Name="botonOkCancel" Text="Mensaje Ok/Cancel" HorizontalOptions="CenterAndExpand"/>
+        <Button x:Name="botonOpciones" Text="Mensaje opciones" HorizontalOptions="CenterAndExpand" />
+        <Button x:Name="botonModal" Text="Mensaje Modal" HorizontalOptions="CenterAndExpand"/>
+        <Label x:Name="lbRespuesta" FontSize="35" TextColor="Blue" Text="Respuesta" HorizontalOptions="FillAndExpand"/>
+    </StackLayout>
+
+</ContentPage>
