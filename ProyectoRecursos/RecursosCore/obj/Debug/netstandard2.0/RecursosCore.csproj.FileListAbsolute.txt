@@ -1,0 +1,11 @@
+C:\XAMARIN\ProyectoRecursos\RecursosCore\bin\Debug\netstandard2.0\RecursosCore.deps.json
+C:\XAMARIN\ProyectoRecursos\RecursosCore\bin\Debug\netstandard2.0\RecursosCore.dll
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\RecursosCore.csproj.CoreCompileInputs.cache
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\RecursosCore.AssemblyInfoInputs.cache
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\RecursosCore.AssemblyInfo.cs
+C:\XAMARIN\ProyectoRecursos\RecursosCore\bin\Debug\netstandard2.0\RecursosCore.pdb
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\RecursosCore.csprojAssemblyReference.cache
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\EstilosExternos.xaml.g.cs
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\RecursosCore.dll
+C:\XAMARIN\ProyectoRecursos\RecursosCore\obj\Debug\netstandard2.0\RecursosCore.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:local="clr-namespace:ProyectoRecursos"
+             x:Class="ProyectoRecursos.MainPage">
+   
+    <ContentPage.Resources>
+        <Color x:Key="colorLetra">Fuchsia</Color>
+        <Color x:Key="colorFondo">Yellow</Color>
+        <Style x:Key="botonRojo" TargetType="Button">
+            <Setter Property="FontSize" Value="50"/>
+            <Setter Property="BorderColor" Value="Aqua"/>
+            <Setter Property="BorderWidth" Value="2"/>
+            <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+            <Setter Property="BackgroundColor" Value="Beige"/>
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Label Text="Etiqueta con estilos" TextColor="{StaticResource colorLetra}" BackgroundColor="{StaticResource colorFondo}"/>
+        <Button Style="{StaticResource botonRojo}" Text="hola!"/>
+       
+        <Button Style="{StaticResource botonVerde}" Text="verde!"/>
+        <Button Style="{StaticResource botonMorado}" Text="Morado!"/>
+    </StackLayout>
+
+</ContentPage>

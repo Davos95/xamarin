@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoRecursos.App"
+             xmlns:recursos="clr-namespace:ProyectoRecursos"
+             xmlns:externo="clr-namespace:RecursosCore;assembly=RecursosCore">
+    
+    <Application.Resources>
+        <ResourceDictionary MergedWith="recursos:DiccionarioRecursos"/>
+        <ResourceDictionary MergedWith="externo:EstilosExternos"/>
+    </Application.Resources>
+</Application>

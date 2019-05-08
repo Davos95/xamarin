@@ -1,0 +1,16 @@
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\bin\Debug\netstandard2.0\ProyectoRecursos.deps.json
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\bin\Debug\netstandard2.0\ProyectoRecursos.dll
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\bin\Debug\netstandard2.0\ProyectoRecursos.pdb
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\bin\Debug\netstandard2.0\RecursosCore.dll
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\bin\Debug\netstandard2.0\RecursosCore.pdb
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.csprojAssemblyReference.cache
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\DiccionarioRecursos.xaml.g.cs
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.csproj.CoreCompileInputs.cache
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.AssemblyInfoInputs.cache
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.AssemblyInfo.cs
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.csproj.CopyComplete
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.dll
+C:\XAMARIN\ProyectoRecursos\ProyectoRecursos\ProyectoRecursos\obj\Debug\netstandard2.0\ProyectoRecursos.pdb
