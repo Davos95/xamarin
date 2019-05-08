@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PaginasBinding"
+             x:Class="PaginasBinding.MainPage">
+    <ContentPage>
+        <StackLayout>
+            <Label FontSize="40" Text="Rojo" TextColor="Red" VerticalOptions="CenterAndExpand"/>
+            <BoxView Color="Red" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+        
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label FontSize="40" Text="Azul" TextColor="Blue" VerticalOptions="CenterAndExpand"/>
+            <BoxView Color="Blue" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label FontSize="40" Text="Verde" TextColor="Green" VerticalOptions="CenterAndExpand"/>
+            <BoxView Color="Green" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label FontSize="40" Text="Naranja" TextColor="Orange" VerticalOptions="CenterAndExpand"/>
+            <BoxView Color="Orange" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+
+    </ContentPage>
+
+</CarouselPage>

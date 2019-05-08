@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PaginasBinding.TabbedView">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Rojo" >
+        <StackLayout>
+            <Label Text="Rojo" TextColor="Red" VerticalOptions="CenterAndExpand" FontSize="40"/>
+            <BoxView Color="Red" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Verde" >
+        <StackLayout>
+            <Label Text="Verde" TextColor="Green" VerticalOptions="CenterAndExpand" FontSize="40"/>
+            <BoxView Color="Green" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Naranja" >
+        <StackLayout>
+            <Label Text="Naranja" TextColor="Orange" VerticalOptions="CenterAndExpand" FontSize="40"/>
+            <BoxView Color="Orange" WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

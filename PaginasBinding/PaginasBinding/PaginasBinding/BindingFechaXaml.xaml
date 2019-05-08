@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:PaginasBinding.ViewModels"
+             x:Class="PaginasBinding.BindingFechaXaml">
+    <ContentPage.Content>
+        <StackLayout Margin="0,40,0,0">
+            <StackLayout.BindingContext>
+                <viewmodels:Fecha/>
+            </StackLayout.BindingContext>
+            <Label Text="Binding Fecha Xaml"/>
+            <Label FontSize="40" Text="{Binding Dia}" />
+            <Label FontSize="40" Text="{Binding Mes}" />
+            <Label FontSize="40" Text="{Binding Anyo}" />
+            <Label FontSize="40" Text="{Binding Hora}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

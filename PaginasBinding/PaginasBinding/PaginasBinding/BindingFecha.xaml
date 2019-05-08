@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PaginasBinding.BindingFecha">
+    <ContentPage.Content>
+        <StackLayout Margin="0,40,0,0">
+            <Label FontSize="40" Text="{Binding Dia}" />
+            <Label FontSize="40" Text="{Binding Mes}" />
+            <Label FontSize="40" Text="{Binding Anyo}" />
+            <Label FontSize="40" Text="{Binding Hora}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

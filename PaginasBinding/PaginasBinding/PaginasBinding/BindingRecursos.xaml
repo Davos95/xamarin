@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PaginasBinding.BindingRecursos">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="fondostarwars.jpg" VerticalOptions="Fill" HorizontalOptions="Fill" Aspect="Fill"/>
+            
+            <ScrollView Orientation="Vertical" RotationX="25" VerticalOptions="CenterAndExpand"  >
+                <Label Text="{StaticResource textostarwar}" TextColor="Yellow" FontSize="25" />
+
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <x:String x:Key="textostarwar">
+        It is a period of civil war.
+        Rebel spaceships, striking
+        from a hidden base, have won
+        their first victory against
+        the evil Galactic Empire.
+        During the battle, Rebel
+        spies managed to steal secret
+        plans to the Empire's
+        ultimate weapon, the DEATH
+        STAR, an armored space
+        station with enough power
+        to destroy an entire planet.
+        Pursued by the Empire's
+        sinister agents, Princess
+        Leia races home aboard her
+        starship, custodian of the
+        stolen plans that can save her
+        people and restore
+        freedom to the galaxy....
+                
+                
+                
+                
+                
+                
+                
+            </x:String>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+</ContentPage>

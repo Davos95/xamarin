@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PaginasBinding.Practicas.Practica1">
+    <ContentPage.Content  >
+        <StackLayout  BackgroundColor="LightBlue">
+            <Label Text="Hola mundo!" HorizontalOptions="CenterAndExpand" Font="25" Margin="0,40,0,0" BindingContext="{x:Reference Name=slider}" Rotation="{Binding Path=Value}"  />
+            <Slider x:Name="slider" Minimum="0" Maximum="360" Margin="0,50,0,0"  />
+            <Label BindingContext="{x:Reference slider}" Text="{Binding Path=Value, StringFormat='El angulo es de {0} grados'}" TextColor="White" Font="30" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

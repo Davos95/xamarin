@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:PaginasBinding.ViewModels"
+             x:Class="PaginasBinding.CocheView">
+    <ContentPage.Content>
+        <StackLayout Margin="0,30,0,0">
+            <StackLayout.BindingContext>
+                <viewmodels:ModelCoche/>
+            </StackLayout.BindingContext>
+            
+            <Label Text="Marca" TextColor="Blue"/>
+            <Entry HorizontalOptions="FillAndExpand" Text="{Binding Coche.Marca, Mode=TwoWay}"/>
+            <Label Text="Modelo" TextColor="Red"/>
+            <Entry HorizontalOptions="FillAndExpand" Text="{Binding Coche.Modelo, Mode=TwoWay}"/>
+            <Button Text="Mostrar descripcion" HorizontalOptions="FillAndExpand" Command="{Binding MostrarCoche}"/>
+            <Button Text="Nuevo coche" HorizontalOptions="FillAndExpand" Command="{Binding NuevoCoche}"/>
+            <Label FontSize="30" TextColor="Fuchsia" Text="{Binding Descripcion}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

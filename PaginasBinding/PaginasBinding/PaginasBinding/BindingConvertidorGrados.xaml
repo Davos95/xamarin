@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:PaginasBinding.Converters"
+             x:Class="PaginasBinding.BindingConvertidorGrados">
+    <!--LOS CONVERTIDORES NO VAN ASOCIOADOS A BINDING DE OBJETOS
+    SON UNA HERRAMIENTA, POR LO QUE SE DECLARAN EN DICCIONARIOS DE RECURSOS
+    -->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ConvertidorFarenhait x:Key="convertidorFarenhait"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        
+        <StackLayout Margin="0,40,0,0">
+            <Label Text="Grados Celsius"/>
+            <Entry x:Name="cajacelsius" HorizontalOptions="FillAndExpand"/>
+            <Label Text="Grados Faremhait" />
+            <Entry HorizontalOptions="FillAndExpand" BindingContext="{x:Reference cajacelsius}" Text="{Binding Text, Mode=OneWay, Converter={StaticResource convertidorFarenhait}}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

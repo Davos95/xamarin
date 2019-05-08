@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sistema="clr-namespace:System;assembly=mscorlib"
+             xmlns:viewmodelos="clr-namespace:PaginasBinding.Models"
+             x:Class="PaginasBinding.BindingClasesXaml">
+    <ContentPage.Content>
+        <StackLayout BindingContext="{x:Static sistema:DateTime.Now}">
+            <Label Text="{Binding Year}" FontSize="30"/>
+            <Label Text="{Binding Month}" FontSize="Large"/>
+            <Label Text="{Binding Day}" FontSize="30"/>
+            <Label Text="{Binding Month, StringFormat='Mes {0}'}" FontSize="Large"/>
+            <Label Text="{Binding Year, StringFormat='Year {0}'}" FontSize="Large"/>
+            <StackLayout BackgroundColor="Yellow">
+                <StackLayout.BindingContext>
+                    <viewmodelos:Jugador />
+                </StackLayout.BindingContext>
+                <Label Text="{Binding Nombre}" TextColor="Blue" FontSize="40"/>
+                <Label Text="{Binding Equipo}" Font="30"/>
+                <Image Source="{Binding Imagen}" WidthRequest="200" HeightRequest="200"/>
+                <Label Text="{Binding Descripcion}" Font="20"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

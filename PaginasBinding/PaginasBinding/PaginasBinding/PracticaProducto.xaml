@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:PaginasBinding.Converters"
+             xmlns:viewmodels="clr-namespace:PaginasBinding.Models"
+             x:Class="PaginasBinding.PracticaProducto">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ConvertidorMoneda x:Key="convertidorMoneda" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Margin="0,40,0,0">
+            <StackLayout.BindingContext>
+                <viewmodels:Producto />
+            </StackLayout.BindingContext>
+            <Label Text="Producto" />
+            <Entry HorizontalOptions="FillAndExpand" Text="{Binding producto.Nombre, Mode=TwoWay}"/>
+            <Label Text="Categoria"/>
+            <Entry HorizontalOptions="FillAndExpand" Text="{Binding producto.Categoria, Mode=TwoWay}"/>
+            <Label Text="Precio €" />
+            <Entry x:Name="cajaeuros" HorizontalOptions="FillAndExpand" Text="{Binding producto.euros, Mode=TwoWay}" />
+            <Label Text="Precio $"/>
+            <Entry BindingContext="{x:Reference cajaeuros}" Text="{Binding Text, Mode=OneWay, Converter={StaticResource convertidorMoneda}}" HorizontalOptions="FillAndExpand" />
+            <Button Text="Mostrar Producto" Command="{Binding MostrarProducto}"/>
+            <Label Text="{Binding Descripcion}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
