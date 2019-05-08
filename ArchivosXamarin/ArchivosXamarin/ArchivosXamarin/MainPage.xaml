@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ArchivosXamarin"
+             x:Class="ArchivosXamarin.MainPage">
+    <StackLayout>
+        <Label Text="LEER FILE XAMARIN" TextColor="Blue"
+               FontSize="35"
+           HorizontalOptions="Center" />
+        <Button Text="Leer archivo"
+                HorizontalOptions="FillAndExpand"
+                x:Name="botonleer"/>
+        <Label x:Name="lblcontenido" BackgroundColor="Azure"
+               FontSize="15" HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>

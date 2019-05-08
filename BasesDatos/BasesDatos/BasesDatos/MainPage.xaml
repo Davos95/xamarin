@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BasesDatos"
+             x:Class="BasesDatos.MainPage">
+
+    <StackLayout Margin="0,30,0,0">
+        <Button Text="Mostrar departamentos"
+                HorizontalOptions="FillAndExpand" x:Name="botonmostrar"/>
+        <Button Text="Nuevo departamento" x:Name="botonnuevo"
+                HorizontalOptions="FillAndExpand"/>
+        <Label Text="Número"/>
+        <Entry x:Name="cajanumero" HorizontalOptions="FillAndExpand"/>
+        <Button Text="Borrar departamento" x:Name="botonborrar"
+                HorizontalOptions="FillAndExpand"/>
+        <Button Text="Modificar departamento" x:Name="botonmodificar"
+                HorizontalOptions="FillAndExpand"/>
+    </StackLayout>
+
+</ContentPage>

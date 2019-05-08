@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BasesDatos.Views.EliminarDepartamento">
+    <ContentPage.Content>
+        <StackLayout Margin="0,30,0,0">
+            <Label Text="Eliminar Registro" TextColor="Red"
+                   FontSize="30"
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding Departamento.Numero}" 
+                   HorizontalOptions="FillAndExpand"/>
+            <Label Text="{Binding Departamento.Nombre}"
+                   HorizontalOptions="FillAndExpand"/>
+            <Label Text="{Binding Departamento.Localidad}"
+                   HorizontalOptions="FillAndExpand"/>
+            <Button Text="Eliminar departamento" HorizontalOptions="FillAndExpand"
+                    Command="{Binding EliminarDepartamento}"
+                    TextColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+xmlns:control="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
+             x:Class="ArchivosXamarin.Views.CarruselEscenas">
+    <ContentPage.Content>
+        <ContentView HorizontalOptions="FillAndExpand"
+                     VerticalOptions="FillAndExpand">
+            <control:CarouselView ItemsSource="{Binding Pelicula.Escenas}">
+                <control:CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Label FontSize="25" TextColor="Red"
+                                Text="{Binding TituloEscena}"/>
+                            <Label FontSize="12"
+                                   Text="{Binding Descripcion}"/>
+                            <Image Source="{Binding ImagenEscena}"
+                                   HorizontalOptions="FillAndExpand"
+                                   VerticalOptions="FillAndExpand"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </control:CarouselView.ItemTemplate>
+            </control:CarouselView>
+        </ContentView>
+    </ContentPage.Content>
+</ContentPage>

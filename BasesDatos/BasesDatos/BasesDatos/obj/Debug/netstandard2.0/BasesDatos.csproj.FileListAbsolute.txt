@@ -1,0 +1,16 @@
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\bin\Debug\netstandard2.0\BasesDatos.deps.json
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\bin\Debug\netstandard2.0\BasesDatos.dll
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\BasesDatos.csproj.CoreCompileInputs.cache
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\BasesDatos.AssemblyInfoInputs.cache
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\BasesDatos.AssemblyInfo.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\bin\Debug\netstandard2.0\BasesDatos.pdb
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\BasesDatos.csprojAssemblyReference.cache
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\Views\DepartamentosView.xaml.g.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\Views\EliminarDepartamento.xaml.g.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\Views\InsertarDepartamento.xaml.g.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\Views\ModificarDepartamento.xaml.g.cs
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\BasesDatos.dll
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos\obj\Debug\netstandard2.0\BasesDatos.pdb

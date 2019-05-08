@@ -1,0 +1,17 @@
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\bin\Debug\netstandard2.0\ArchivosXamarin.deps.json
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\bin\Debug\netstandard2.0\ArchivosXamarin.dll
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\bin\Debug\netstandard2.0\ArchivosXamarin.pdb
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\ArchivosXamarin.csprojAssemblyReference.cache
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\ArchivosXamarin.csproj.CoreCompileInputs.cache
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\ArchivosXamarin.AssemblyInfoInputs.cache
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\ArchivosXamarin.AssemblyInfo.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\ArchivosXamarin.dll
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\ArchivosXamarin.pdb
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\Views\FicheroSimpleView.xaml.g.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\Views\SeriesView.xaml.g.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\Views\CarruselSeries.xaml.g.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\Views\PeliculasView.xaml.g.cs
+C:\macOS\Proyectos\ArchivosXamarin\ArchivosXamarin\ArchivosXamarin\obj\Debug\netstandard2.0\Views\CarruselEscenas.xaml.g.cs

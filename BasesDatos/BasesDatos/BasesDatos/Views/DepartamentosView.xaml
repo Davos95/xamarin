@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:BasesDatos.ViewModels"
+             x:Class="BasesDatos.Views.DepartamentosView">
+    <ContentPage.BindingContext>
+        <viewmodels:DepartamentosViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Margin="0,30,0,0">
+            <Label Text="Departamentos SQLite" FontSize="35"
+                TextColor="Blue"
+                HorizontalOptions="CenterAndExpand" />
+            <ListView ItemsSource="{Binding Departamentos}" RowHeight="90">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding Numero}"/>
+                                <Label Text="{Binding Nombre}"/>
+                                <Label Text="{Binding Localidad}"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

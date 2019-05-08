@@ -1,0 +1,1 @@
+C:\macOS\Proyectos\BasesDatos\BasesDatos\BasesDatos.UWP\BasesDatos.UWP.csproj;x86
