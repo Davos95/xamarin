@@ -18,3 +18,4 @@ C:\XAMARIN\XamarinRealm\XamarinRealm\XamarinRealm\obj\Debug\netstandard2.0\Views
 C:\XAMARIN\XamarinRealm\XamarinRealm\XamarinRealm\obj\Debug\netstandard2.0\Views\Views\Productos2.xaml.g.cs
 C:\XAMARIN\XamarinRealm\XamarinRealm\XamarinRealm\obj\Debug\netstandard2.0\XamlC.stamp
 C:\XAMARIN\XamarinRealm\XamarinRealm\XamarinRealm\obj\Debug\netstandard2.0\Views\Views\PrincipalProductos.xaml.g.cs
+C:\XAMARIN\XamarinRealm\XamarinRealm\XamarinRealm\obj\Debug\netstandard2.0\Views\Views\ListadoProductos.xaml.g.cs

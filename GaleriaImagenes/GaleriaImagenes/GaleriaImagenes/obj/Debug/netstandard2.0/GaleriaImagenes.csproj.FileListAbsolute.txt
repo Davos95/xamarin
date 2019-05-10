@@ -1,0 +1,12 @@
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\bin\Debug\netstandard2.0\GaleriaImagenes.deps.json
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\bin\Debug\netstandard2.0\GaleriaImagenes.dll
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\bin\Debug\netstandard2.0\GaleriaImagenes.pdb
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.csprojAssemblyReference.cache
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.csproj.CoreCompileInputs.cache
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.AssemblyInfoInputs.cache
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.AssemblyInfo.cs
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.dll
+C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.pdb

@@ -1,0 +1,14 @@
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\bin\Debug\netstandard2.0\XamarinDoctores.deps.json
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\bin\Debug\netstandard2.0\XamarinDoctores.dll
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamarinDoctores.csprojAssemblyReference.cache
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamarinDoctores.csproj.CoreCompileInputs.cache
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamarinDoctores.AssemblyInfoInputs.cache
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamarinDoctores.AssemblyInfo.cs
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\bin\Debug\netstandard2.0\XamarinDoctores.pdb
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\Views\DoctoresView.xaml.g.cs
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamarinDoctores.dll
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\XamarinDoctores.pdb
+C:\XAMARIN\XamarinDoctores\XamarinDoctores\XamarinDoctores\obj\Debug\netstandard2.0\Views\DetallesDoctor.xaml.g.cs

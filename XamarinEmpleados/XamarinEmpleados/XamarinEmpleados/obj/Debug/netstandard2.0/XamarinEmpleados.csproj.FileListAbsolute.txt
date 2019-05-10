@@ -1,0 +1,14 @@
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\bin\Debug\netstandard2.0\XamarinEmpleados.deps.json
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\bin\Debug\netstandard2.0\XamarinEmpleados.dll
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamarinEmpleados.csprojAssemblyReference.cache
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamarinEmpleados.csproj.CoreCompileInputs.cache
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamarinEmpleados.AssemblyInfoInputs.cache
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamarinEmpleados.AssemblyInfo.cs
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\bin\Debug\netstandard2.0\XamarinEmpleados.pdb
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\Views\EmpleadosView.xaml.g.cs
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamarinEmpleados.dll
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\XamarinEmpleados.pdb
+C:\XAMARIN\XamarinEmpleados\XamarinEmpleados\XamarinEmpleados\obj\Debug\netstandard2.0\Views\EmpleadoView.xaml.g.cs

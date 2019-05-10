@@ -23,7 +23,7 @@ namespace XamarinRealm
         {
             InitializeComponent();
 
-            MainPage = new PrincipalProductos();
+            MainPage = new NavigationPage(new PrincipalProductos());
         }
 
         protected override void OnStart()

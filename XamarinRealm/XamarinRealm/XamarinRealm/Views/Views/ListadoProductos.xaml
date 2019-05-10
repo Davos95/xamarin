@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel="clr-namespace:XamarinRealm.ViewModels"
+             xmlns:local="clr-namespace:XamarinRealm"
+             BindingContext="{Binding Source={x:Static local:App.Locator}, Path=ProductosViewModel}"
+             x:Class="XamarinRealm.Views.Views.ListadoProductos">
+    <ContentPage.Content>
+        <StackLayout Margin="0,30,0,0">
+            <Button Text="Nuevo Producto" HorizontalOptions="FillAndExpand" Command="{Binding NuevoProducto}" />
+            <ListView ItemsSource="{Binding Productos}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Nombre}" TextColor="Black"/>
+                                <Label Text="{Binding Precio}" TextColor="Red" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel="clr-namespace:XamarinDoctores.ViewModel"
+             x:Name="vistaDoctores"
+             x:Class="XamarinDoctores.Views.DoctoresView">
+    <ContentPage.BindingContext>
+        <viewmodel:DoctoresViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Margin="0,30,0,0">
+            <ListView ItemsSource="{Binding Doctores}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                
+                                <MenuItem Text="Detalles" CommandParameter="{Binding .}" Command="{Binding BindingContext.MostrarDetallesDoctor, Source={x:Reference vistaDoctores}}" />
+                                <MenuItem Text="Otros..."/>
+                            </ViewCell.ContextActions>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding IdDoctor}"/>
+                                <Label Text="{Binding Apellido}"/>
+                                <Label Text="{Binding Especialidad}" />
+                                <Button Text="+" CommandParameter="{Binding .}" Command="{Binding BindingContext.MostrarDetallesDoctor, Source={x:Reference vistaDoctores}}" />
+                                <Image Source="user.png">
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer CommandParameter="{Binding .}" Command="{Binding BindingContext.MostrarDetallesDoctor, Source={x:Reference vistaDoctores}}" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

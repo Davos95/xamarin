@@ -7,6 +7,7 @@
             <Button HorizontalOptions="FillAndExpand" Text="Productos 1" x:Name="botonproductos1" />
             <Button HorizontalOptions="FillAndExpand" Text="Productos 2" x:Name="botonproductos2" />
             <Button HorizontalOptions="FillAndExpand" Text="Numero productos" x:Name="botonnumeroproductos" />
+            <Button x:Name="botonmostrar" Text="Mostrar productos" />
             <Label x:Name="lblproductos" FontSize="30" TextColor="Red" />
         </StackLayout>
     </ContentPage.Content>
