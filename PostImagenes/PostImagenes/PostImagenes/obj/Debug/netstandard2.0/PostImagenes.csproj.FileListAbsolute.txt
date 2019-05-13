@@ -1,0 +1,12 @@
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\bin\Debug\netstandard2.0\PostImagenes.deps.json
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\bin\Debug\netstandard2.0\PostImagenes.dll
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\bin\Debug\netstandard2.0\PostImagenes.pdb
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\PostImagenes.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\PostImagenes.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\PostImagenes.AssemblyInfoInputs.cache
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\PostImagenes.AssemblyInfo.cs
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\PostImagenes.dll
+C:\Users\AlumnoMCSD\source\repos\PostImagenes\PostImagenes\PostImagenes\obj\Debug\netstandard2.0\PostImagenes.pdb

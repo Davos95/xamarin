@@ -10,3 +10,14 @@ C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard
 C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\XamlC.stamp
 C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.dll
 C:\XAMARIN\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.pdb
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\bin\Debug\netstandard2.0\GaleriaImagenes.deps.json
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\bin\Debug\netstandard2.0\GaleriaImagenes.dll
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\bin\Debug\netstandard2.0\GaleriaImagenes.pdb
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.AssemblyInfoInputs.cache
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.AssemblyInfo.cs
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.dll
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes\obj\Debug\netstandard2.0\GaleriaImagenes.pdb

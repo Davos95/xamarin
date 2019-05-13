@@ -1,0 +1,1 @@
+C:\Users\AlumnoMCSD\source\Github\xamarin\GaleriaImagenes\GaleriaImagenes\GaleriaImagenes.UWP\obj\x86\Debug\GaleriaImagenes.UWP.csprojAssemblyReference.cache

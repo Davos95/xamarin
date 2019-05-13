@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj",
       "projectName": "GaleriaImagenes",
-      "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

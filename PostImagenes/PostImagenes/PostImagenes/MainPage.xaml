@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PostImagenes"
+             xmlns:viewmodel="clr-namespace:PostImagenes.ViewModel"
+             x:Class="PostImagenes.MainPage">
+    <ContentPage.BindingContext>
+        <viewmodel:FotosViewModel />
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Selecciona una imagen!" x:Name="botonimagen" Command="{Binding CargarFoto}"/>
+        <ListView ItemsSource="{Binding Fotos}">
+            <ListView.ItemTemplate>
+                <DataTemplate>  
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label  Text="{Binding name}" TextColor="Red"/>
+                            <Image Source="{Binding Imagen.Source}"   WidthRequest="50" HeightRequest="50"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Image x:Name="preview" />
+    </StackLayout>
+
+</ContentPage>

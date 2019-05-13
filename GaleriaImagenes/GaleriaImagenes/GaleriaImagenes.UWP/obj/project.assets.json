@@ -7495,11 +7495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.UWP\\GaleriaImagenes.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.UWP\\GaleriaImagenes.UWP.csproj",
       "projectName": "GaleriaImagenes.UWP",
-      "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.UWP\\GaleriaImagenes.UWP.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.UWP\\GaleriaImagenes.UWP.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.UWP\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7519,8 +7519,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj": {
-              "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj"
+            "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj": {
+              "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj"
             }
           }
         }

@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.Android\\GaleriaImagenes.Android.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.Android\\GaleriaImagenes.Android.csproj",
       "projectName": "GaleriaImagenes.Android",
-      "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.Android\\GaleriaImagenes.Android.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.Android\\GaleriaImagenes.Android.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.Android\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -822,8 +822,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj": {
-              "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj"
+            "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj": {
+              "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj"
             }
           }
         }

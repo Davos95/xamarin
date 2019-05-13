@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.iOS\\GaleriaImagenes.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.iOS\\GaleriaImagenes.iOS.csproj",
       "projectName": "GaleriaImagenes.iOS",
-      "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.iOS\\GaleriaImagenes.iOS.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.iOS\\GaleriaImagenes.iOS.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.iOS\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -741,8 +741,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj": {
-              "projectPath": "C:\\XAMARIN\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj"
+            "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj": {
+              "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\xamarin\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes\\GaleriaImagenes.csproj"
             }
           }
         }
